@@ -1,0 +1,7 @@
+This is for the pull testing 
+
+Command 
+
+git pull <URL> <Branch>
+
+eg: git pull https://github.com/IndumathiRanganatham/maven-hello-world.git qr
